@@ -1,0 +1,18 @@
+virtualenv --python=/usr/local/bin/python3.7 help-erick
+
+source help-erick/bin/activate
+
+conjuntos
+https://www2.aneel.gov.br/aplicacoes_liferay/srd/indqual/dspConjunto.cfm?ano=2010&estado=SP&municipio=3507209
+
+
+indicadores
+https://www2.aneel.gov.br/aplicacoes_liferay/srd/indqual/dspIndicadores.cfm?municipio=3507209&conjunto=12165&ano=2010&estado=SP
+
+
+municipios - IBGE
+https://www.ibge.gov.br/explica/codigos-dos-municipios.php
+
+
+https://www.aneel.gov.br/limites-dos-indicadores-de-continuidade-por-municipio
+
