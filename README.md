@@ -25,7 +25,7 @@ python
 
 * Recomendo aqui que seja instalado pelo menos o [python3.7](https://www.python.org/downloads/release/python-370/)
 
-* Para instalar o venv siga [essas instruções](https://docs.python.org/pt-br/3/library/venv.html)
+* Para instalar o virtualenv siga [essas instruções](https://pypi.org/project/virtualenv)
 
 continuando...
 
@@ -51,3 +51,9 @@ https://www2.aneel.gov.br/aplicacoes_liferay/srd/indqual/dspConjunto.cfm?ano=201
 
 indicadores
 https://www2.aneel.gov.br/aplicacoes_liferay/srd/indqual/dspIndicadores.cfm?municipio=3507209&conjunto=12165&ano=2010&estado=SP
+
+Usando virtualenv no pycharm
+https://ruddra.com/using-intellijidea-within-an-exisiting-virtualenv/
+
+Instalando o virtualenv no windows
+https://fernandofreitasalves.com/tutorial-virtualenv-para-iniciantes-windows/
